@@ -8,6 +8,6 @@ int main() {
     cout << "Input: ";
     string data;
     getline(cin, data);
-    cout << "Output: " << data << "\n\n";
+    cout << "Output is: " << data << "\n\n";
     return 0;
 }
